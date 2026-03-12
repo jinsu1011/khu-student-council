@@ -1,4 +1,4 @@
-import './globals.css'
+import './globals.css' // 반드시 점 하나(./)여야 합니다.
 
 export const metadata = {
   title: '선거운동본부 route',
